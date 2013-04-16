@@ -43,11 +43,15 @@ body {
     padding:0px;
     text-transform:uppercase;
     width:100%;
+
+    background: url(../img/pad_heng1024.png);
 }
 
 /* Portrait layout (default) */
 .app {
-    background:url(../img/logo.png) no-repeat center top; /* 170px x 200px */
+    /* 170px x 200px */
+    /*background:url(../img/logo.png) no-repeat center top;*/
+
     position:absolute;             /* position in the center of the screen */
     left:50%;
     top:50%;
